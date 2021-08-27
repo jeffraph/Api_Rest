@@ -23,4 +23,4 @@ Esse projeto foi desenvolvido utilizando o gradle com java.
 - Validation
 - Jackson Data Format
 - Hibernate Envers
-- Hibernate validato
+- Hibernate validator
