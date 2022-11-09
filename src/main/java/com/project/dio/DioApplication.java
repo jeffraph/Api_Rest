@@ -10,5 +10,4 @@ public class DioApplication {
 		SpringApplication.run(DioApplication.class, args);
 	}
 
-	//TEST
 }
